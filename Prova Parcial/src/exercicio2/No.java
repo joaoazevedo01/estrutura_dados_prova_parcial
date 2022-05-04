@@ -1,4 +1,4 @@
-package Ex2;
+package exercicio2;
 
 public class No {
 	Motorista motorista;

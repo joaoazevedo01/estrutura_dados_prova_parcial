@@ -1,4 +1,4 @@
-package Ex4;
+package exercicio4;
 
 public class Lista {
 	No inicio;

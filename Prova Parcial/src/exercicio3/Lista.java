@@ -1,4 +1,4 @@
-package Ex3;
+package exercicio3;
 
 public class Lista {
 
